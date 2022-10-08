@@ -1,6 +1,11 @@
 //Cesar Ramirez
 //113515245
 
+// For Assignment 2
+function test_print(){
+  console.log("test code");
+}
+
 $(function() {
   //Get user IDs for second section
   $('#get-button').on('click', function() {
