@@ -1,5 +1,1 @@
-More
-description
-for
-Assignment
-1
+More description for Assignment 1.
